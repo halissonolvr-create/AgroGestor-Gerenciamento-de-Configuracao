@@ -7,3 +7,8 @@ Versao 1.0
 - Definicao dos requisitos funcionais.
 - Definicao dos requisitos nao funcionais.
 - Inicio do controle de versoes com Git.
+
+Versao 1.1
+- Inclusao de requisitos para cadastro de equipamentos.
+- Inclusao de requisitos para emissao de relatorios.
+- Inclusao de controle de acesso por usuario.

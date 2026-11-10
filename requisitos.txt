@@ -15,3 +15,9 @@ Requisitos Nao Funcionais:
 RNF01 - O sistema deve apresentar uma interface intuitiva.
 RNF02 - Os dados devem ser armazenados de forma segura.
 RNF03 - O sistema deve permitir futuras atualizacoes.
+
+Atualizacao - Versao 1.1
+
+RF05 - Permitir o cadastro de equipamentos agricolas.
+RF06 - Gerar relatorios das atividades realizadas.
+RNF04 - O sistema deve permitir controle de acesso por usuario.
