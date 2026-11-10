@@ -1,0 +1,9 @@
+PROJETO: AGROGESTOR
+
+Historico de Alteracoes
+
+Versao 1.0
+- Criacao do documento de requisitos.
+- Definicao dos requisitos funcionais.
+- Definicao dos requisitos nao funcionais.
+- Inicio do controle de versoes com Git.

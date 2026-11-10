@@ -1,0 +1,17 @@
+PROJETO: AGROGESTOR
+
+Documento de Requisitos - Versao 1.0
+
+Objetivo:
+Desenvolver um sistema para auxiliar na gestao de atividades agricolas.
+
+Requisitos Funcionais:
+RF01 - Permitir o cadastro de propriedades rurais.
+RF02 - Permitir o cadastro de culturas agricolas.
+RF03 - Registrar atividades de plantio e colheita.
+RF04 - Consultar o historico das atividades cadastradas.
+
+Requisitos Nao Funcionais:
+RNF01 - O sistema deve apresentar uma interface intuitiva.
+RNF02 - Os dados devem ser armazenados de forma segura.
+RNF03 - O sistema deve permitir futuras atualizacoes.
